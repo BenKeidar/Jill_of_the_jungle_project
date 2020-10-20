@@ -1,9 +1,9 @@
 README file for the final OOP Project :
 מגישים:
+בן קידר: 208308817
 יבגני בורקו: 309543247
 אלכסיי בוטוב: 317552610
 אלכסנדר בורד: 319263836
-בן קידר: 208308817
 ================================================================================
 General Description of program:
 The Main purpose of the Project is to  build a fully functional PC Game "Jill of the Jungle" using the "SFML" Graphic Library.
